@@ -1,0 +1,33 @@
+.navb{
+    background: black;
+    color: white;
+}
+a:hover {
+   background-color : tomato;
+  }
+.nav-test{
+    background-color: #2f4353;
+background-image: linear-gradient(315deg, #2f4353 0%, #d2ccc4 74%);
+color: burlywood;
+}
+.header{
+   height: 90vh;
+   width: 100%;
+   background-image: linear-gradient(to right, rgba(0,0,0,0),rgba(0,0,0.2)),url("https://www.iprshealth.com/assets/Uploads/_resampled/CroppedFocusedImageWyI2MTMiLCIzMzgiLCIyOS00MyJd/pexels-photo-588561.jpeg");
+   background-size: cover;
+   color: white;
+}
+.section{
+    background-color: #861657;
+background-image : linear-gradient(326deg, #861657 0%, #ffa69e 74%);
+color: rgb(22, 19, 22);
+}
+.section-service{
+    background-color: #b3cdd1;
+    background-image: linear-gradient(315deg, #b3cdd1 0%, #9fa4c4 74%);
+}
+   
+.footer{
+    background-color: black;
+    color: white;
+}
